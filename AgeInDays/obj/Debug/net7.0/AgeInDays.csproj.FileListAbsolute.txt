@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/AgeInDays.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/AgeInDays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/AgeInDays.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/AgeInDays.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/AgeInDays.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/bin/Debug/net7.0/AgeInDays
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/bin/Debug/net7.0/AgeInDays.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/bin/Debug/net7.0/AgeInDays.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/bin/Debug/net7.0/AgeInDays.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/bin/Debug/net7.0/AgeInDays.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/AgeInDays.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/refint/AgeInDays.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/AgeInDays.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/AgeInDays.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/AgeInDays/AgeInDays/obj/Debug/net7.0/ref/AgeInDays.dll
